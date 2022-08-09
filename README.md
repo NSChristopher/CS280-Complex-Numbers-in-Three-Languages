@@ -19,4 +19,4 @@ The required files for this project are: a complex.h file that contains the decl
 
 In addition you must write a 2.5 (625+ words) page paper comparing and contrasting the C++, Java, and Python ways of implementing such a class (hint: operator overloading). Comment on the pros and cons of all languages and finally make a determination as to which language is superior. Submit the file as "complex.txt".
 
-Here is some example code ([Links to an external site.](https://web.njit.edu/~kapleau/teach/2020U/cs280/prj4.txt)).
+Here is some example code ([Link](https://web.njit.edu/~kapleau/teach/2020U/cs280/prj4.txt)).
